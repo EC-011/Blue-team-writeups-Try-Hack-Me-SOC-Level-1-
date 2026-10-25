@@ -1,11 +1,14 @@
 # How I'd Triage an Alert as a Tier 1 SOC Analyst
 
-**Date:** [today's date]
+**Date:** [25/10/2026]
 **Based on:** TryHackMe SOC Level 1 (intro to SOC, alert triage)
 **Skills shown:** alert triage, prioritisation, escalation, documentation
 
 ## Intro
-2-3 sentences: what a Tier 1 analyst does, and why you wrote this.
+ What are the SOC 
+
+ SOC L1 
+ 
 
 ## The scenario
 > SIEM alert: 6 failed logins for "j.smith" in 4 minutes, then a successful
